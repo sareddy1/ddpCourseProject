@@ -1,7 +1,5 @@
 # Developing Data Products: Course Project
 ## Shiny Application and Reproducible Pitch
-author: Sudhakar Athuru
-date: 06/24/2017
 
 ### Introduction
 
@@ -29,7 +27,7 @@ Below is the list of choices for moods you can enter:
 - high 
 - lazy
 - pleased
- 
+
 Below is the list of choices for genre you can enter:
 
 - action
