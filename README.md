@@ -1,12 +1,7 @@
 # Developing Data Productions: Course Project
 ## Shiny Application and Reproducible Pitch
 
-This application is developed using R Studio. Shiny, a web 
-application framework for R is used for the app development.
-Application is used for:
+This is an example of a Shiny application devised for the Developing Data Products course on Coursera.This application is primarily used for two purposes: 
 
-- Predicting music according to mood
-- Predicting movie according to genre
-
-Main focus of the project was to develop an interacting 
-application rather than implementation of a suitable algorithm.
+- Predicting song depeding on a mood of the user
+- Predicting movie based on the interested genre of the user
