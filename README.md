@@ -3,7 +3,7 @@
 author: Sudhakar Athuru
 date: 06/24/2017
 
-###Introduction
+### Introduction
 
 This is an example of a Shiny application devised for the Developing Data Products course on Coursera.This application is primarily used for two purposes: 
 
@@ -11,7 +11,7 @@ This is an example of a Shiny application devised for the Developing Data Produc
 - Suggesting a movie based on the user interest in genre
 
 
-###Instructions
+### Instructions
 While inputting the mood and genre always use lower case letters.
 
 Below is the list of choices for moods you can enter:
