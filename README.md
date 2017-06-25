@@ -1,4 +1,4 @@
-# Developing Data Productions: Course Project
+# Developing Data Products: Course Project
 ## Shiny Application and Reproducible Pitch
 
 This is an example of a Shiny application devised for the Developing Data Products course on Coursera.This application is primarily used for two purposes: 
